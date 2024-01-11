@@ -54,7 +54,7 @@ function Login() {
                       type="email"
                       id="email"
                       name="email"
-                      className="w-[226px] h-[51px] px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 w-full"
+                      className="w-[226px] h-[51px] px-4 py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                       placeholder="Enter email"
                     />
                   </div>
@@ -72,7 +72,7 @@ function Login() {
                       type="password"
                       id="password"
                       name="password"
-                      className="w-[226px] h-[51px] px-4 py-2 rounded-md borde focus:outline-none focus:ring-2 focus:ring-blue-500 w-full"
+                      className="w-[226px] h-[51px] px-4 py-2 rounded-md borde focus:outline-none focus:ring-2 focus:ring-blue-500"
                       placeholder="Enter password"
                     />
                   </div>
